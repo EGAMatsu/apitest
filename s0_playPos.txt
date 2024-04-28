@@ -1,1 +1,1 @@
-{"TheSpiderLuke":{"Y":71.63396453857422,"X":0,"Z":0,"Yaw":0,"Pitch":0}}
+{"TheSpiderLuke":{"Y":5.343604564666748,"X":0,"Z":0,"Yaw":0,"Pitch":0}}
