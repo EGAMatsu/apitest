@@ -1,1 +1,1 @@
-[]
+{"TheMiningboyAlpha":{"Y":102.98397827148438,"X":0,"Z":0,"Timer":36,"Yaw":0,"Pitch":0}}
